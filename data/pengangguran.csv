@@ -1,0 +1,28 @@
+kecamatan,latitude,longitude,geometry,jumlah_pengangguran,tingkat_pengangguran,pengangguran_min,pengangguran_max,rank_tertinggi,kabupaten,provinsi,tahun_data,sumber,interpretasi
+Ajibarang,-7.425,109.113,POINT (109.113 -7.425),2849,6.8,5.8,7.8,1,Banyumas,Jawa Tengah,2024,BPS Kabupaten Banyumas,Tingkat pengangguran tinggi
+Banyumas,-7.514,109.29,POINT (109.29 -7.514),1775,5.4,4.4,6.4,2,Banyumas,Jawa Tengah,2024,BPS Kabupaten Banyumas,Tingkat pengangguran sedang
+Baturraden,-7.312,109.228,POINT (109.228 -7.312),1825,6.7,5.7,7.7,3,Banyumas,Jawa Tengah,2024,BPS Kabupaten Banyumas,Tingkat pengangguran tinggi
+Cilongok,-7.451,109.165,POINT (109.165 -7.451),3104,6.2,5.2,7.2,4,Banyumas,Jawa Tengah,2024,BPS Kabupaten Banyumas,Tingkat pengangguran tinggi
+Gumelar,-7.39,109.071,POINT (109.071 -7.39),2448,6.8,5.8,7.8,5,Banyumas,Jawa Tengah,2024,BPS Kabupaten Banyumas,Tingkat pengangguran tinggi
+Jatilawang,-7.521,109.132,POINT (109.132 -7.521),3711,5.4,4.4,6.4,6,Banyumas,Jawa Tengah,2024,BPS Kabupaten Banyumas,Tingkat pengangguran sedang
+Kalibagor,-7.468,109.276,POINT (109.276 -7.468),2075,5.7,4.7,6.7,7,Banyumas,Jawa Tengah,2024,BPS Kabupaten Banyumas,Tingkat pengangguran sedang
+Karanglewas,-7.416,109.198,POINT (109.198 -7.416),3892,6.9,5.9,7.9,8,Banyumas,Jawa Tengah,2024,BPS Kabupaten Banyumas,Tingkat pengangguran tinggi
+Kebasen,-7.533,109.303,POINT (109.303 -7.533),3969,4.9,3.9,5.9,9,Banyumas,Jawa Tengah,2024,BPS Kabupaten Banyumas,Tingkat pengangguran sedang
+Kedungbanteng,-7.384,109.224,POINT (109.224 -7.384),2271,6.4,5.4,7.4,10,Banyumas,Jawa Tengah,2024,BPS Kabupaten Banyumas,Tingkat pengangguran tinggi
+Kembaran,-7.431,109.256,POINT (109.256 -7.431),2418,6.4,5.4,7.4,11,Banyumas,Jawa Tengah,2024,BPS Kabupaten Banyumas,Tingkat pengangguran tinggi
+Kemranjen,-7.552,109.351,POINT (109.351 -7.552),1352,4.5,3.5,5.5,12,Banyumas,Jawa Tengah,2024,BPS Kabupaten Banyumas,Tingkat pengangguran sedang
+Lumbir,-7.401,109.041,POINT (109.041 -7.401),2147,6.7,5.7,7.7,13,Banyumas,Jawa Tengah,2024,BPS Kabupaten Banyumas,Tingkat pengangguran tinggi
+Patikraja,-7.486,109.244,POINT (109.244 -7.486),3474,4.8,3.8,5.8,14,Banyumas,Jawa Tengah,2024,BPS Kabupaten Banyumas,Tingkat pengangguran sedang
+Pekuncen,-7.362,109.086,POINT (109.086 -7.362),1772,4.9,3.9,5.9,15,Banyumas,Jawa Tengah,2024,BPS Kabupaten Banyumas,Tingkat pengangguran sedang
+Purwojati,-7.338,109.102,POINT (109.102 -7.338),1993,6.4,5.4,7.4,16,Banyumas,Jawa Tengah,2024,BPS Kabupaten Banyumas,Tingkat pengangguran tinggi
+Purwokerto Barat,-7.437,109.214,POINT (109.214 -7.437),1449,5.3,4.3,6.3,17,Banyumas,Jawa Tengah,2024,BPS Kabupaten Banyumas,Tingkat pengangguran sedang
+Purwokerto Selatan,-7.445,109.241,POINT (109.241 -7.445),2580,6.9,5.9,7.9,18,Banyumas,Jawa Tengah,2024,BPS Kabupaten Banyumas,Tingkat pengangguran tinggi
+Purwokerto Timur,-7.431,109.252,POINT (109.252 -7.431),2478,5.5,4.5,6.5,19,Banyumas,Jawa Tengah,2024,BPS Kabupaten Banyumas,Tingkat pengangguran sedang
+Purwokerto Utara,-7.418,109.226,POINT (109.226 -7.418),2553,6.6,5.6,7.6,20,Banyumas,Jawa Tengah,2024,BPS Kabupaten Banyumas,Tingkat pengangguran tinggi
+Rawalo,-7.528,109.167,POINT (109.167 -7.528),1230,7.0,6.0,8.0,21,Banyumas,Jawa Tengah,2024,BPS Kabupaten Banyumas,Tingkat pengangguran tinggi
+Sokaraja,-7.457,109.308,POINT (109.308 -7.457),3089,5.9,4.9,6.9,22,Banyumas,Jawa Tengah,2024,BPS Kabupaten Banyumas,Tingkat pengangguran sedang
+Somagede,-7.502,109.334,POINT (109.334 -7.502),3386,5.1,4.1,6.1,23,Banyumas,Jawa Tengah,2024,BPS Kabupaten Banyumas,Tingkat pengangguran sedang
+Sumbang,-7.366,109.201,POINT (109.201 -7.366),2188,5.5,4.5,6.5,24,Banyumas,Jawa Tengah,2024,BPS Kabupaten Banyumas,Tingkat pengangguran sedang
+Sumpiuh,-7.612,109.391,POINT (109.391 -7.612),3853,6.7,5.7,7.7,25,Banyumas,Jawa Tengah,2024,BPS Kabupaten Banyumas,Tingkat pengangguran tinggi
+Tambak,-7.594,109.421,POINT (109.421 -7.594),3603,5.0,4.0,6.0,26,Banyumas,Jawa Tengah,2024,BPS Kabupaten Banyumas,Tingkat pengangguran sedang
+Wangon,-7.515,109.145,POINT (109.145 -7.515),2308,5.6,4.6,6.6,27,Banyumas,Jawa Tengah,2024,BPS Kabupaten Banyumas,Tingkat pengangguran sedang
